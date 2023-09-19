@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ]
+  ],
+  "legacy_uid": "057068ff-47c3-f3fa-9d9f-7376d7714c02",
+  "instructors": {
+    "content": [
+      "661c38bf-20c2-5455-42f9-a318d2ba7d6b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7304a857-b003-afd4-1a37-0decbd08f9fe",
+    "website": "22-012-seminar-fusion-and-plasma-physics-spring-2006"
+  },
+  "course_title": "Seminar: Fusion and Plasma Physics",
+  "course_description": "This course uses lectures and discussion to introduce the range of topics relevant to plasma physics and fusion engineering. An introductory discussion of the economic and ecological motivation for the development of fusion power is also presented. Contemporary magnetic confinement schemes, theoretical questions, and engineering considerations are presented by expert guest lecturers. Students enrolled in the course also tour the Plasma Science and Fusion Center experimental facilities.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "22.S27",
+  "primary_course_number": "22.012",
+  "course_image_thumbnail": {
+    "content": "d3cce209-956d-5e6c-1bcb-f8c8ecad925c",
+    "website": "22-012-seminar-fusion-and-plasma-physics-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments with Examples"
+  ],
+  "site_uid": "27cc03c8-c17e-4828-a307-02a3bdd9347c",
+  "site_short_id": "22.012-spring-2006",
+  "title": "Course Metadata"
+}
